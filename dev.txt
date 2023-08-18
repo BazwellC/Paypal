@@ -1,0 +1,3 @@
+echo "ready for deployment 2
+echo "welcome to walmart"
+
